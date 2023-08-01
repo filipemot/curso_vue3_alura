@@ -10,3 +10,7 @@ https://cursos.alura.com.br/course/vue3-comecando-framework
 - Integre as variáveis de um componente com o seu template, utilizando two-way data binding
 - Delimite as reponsabilidades de um componente
 - Elaborare uma aplicação utilizando Vue e TS
+
+# Aulas 
+
+- [x] Aula 1 - Iniciando o Alura Tracker 
