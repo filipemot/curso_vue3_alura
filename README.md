@@ -14,3 +14,4 @@ https://cursos.alura.com.br/course/vue3-comecando-framework
 # Aulas 
 
 - [x] Aula 1 - Iniciando o Alura Tracker 
+- [ ] Aula 2 - Compondo os componentes
