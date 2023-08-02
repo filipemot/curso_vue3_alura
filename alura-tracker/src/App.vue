@@ -1,11 +1,11 @@
 <template>
   <main class="columns is-gapless is-multiline">
     <div class="column is-one-quarter">
-      <BarraLateral />
+      <BarraLateralComponent />
     </div>
 
     <div class="column is-three-quarter">
-      <FormularioCron/>
+      <FormularioComponent/>
     </div>
 
   </main>
@@ -13,13 +13,13 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import BarraLateral from './components/BarraLateral.vue';
-import FormularioCron from './components/FormularioCron.vue';
+import BarraLateralComponent from './components/BarraLateralComponent.vue';
+import FormularioComponent from './components/FormularioComponent.vue';
 
 
 export default defineComponent({
     name: 'App',
-    components: { BarraLateral, FormularioCron }
+    components: { BarraLateralComponent, FormularioComponent }
 });
 </script>
 

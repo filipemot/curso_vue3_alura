@@ -25,7 +25,7 @@ import { defineComponent } from "vue";
 import TemporizadorComponent from './TemporizadorComponent.vue'
 
 export default defineComponent({
-  name: "FormularioCron",
+  name: "FormularioComponent",
   components: {
     TemporizadorComponent
   },
