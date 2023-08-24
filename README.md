@@ -3,6 +3,9 @@
 # Link
 https://cursos.alura.com.br/course/vue3-comecando-framework
 
+# Versão Publicada
+https://curso-vue3-alura-qebd.vercel.app/
+
 # Conteudo
 - Reconheça as diferenças entre as versões 2 e 3 do Vue
 - Explique as vantagens de se utilizar Vue.JS com TypeScript
