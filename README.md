@@ -17,3 +17,4 @@ https://cursos.alura.com.br/course/vue3-comecando-framework
 - [x] Aula 2 - Compondo os componentes
 - [x] Aula 3 - Trabalhando com listas
 - [x] Aula 4 - Estilo estilosos
+- [5] Aula 5 - Compilando a aplicação
